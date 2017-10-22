@@ -1,5 +1,5 @@
 # PHP Code Snippets ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
-
+List of useful and reusable codes.
 ### Table of Contents
 
 - [Most Frequent Word(s) in a String](#most-frequent-words-in-a-string)
