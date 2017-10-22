@@ -1,1 +1,1 @@
-# PHP Code Snippet
+# PHP Code Snippets
