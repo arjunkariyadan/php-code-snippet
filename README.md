@@ -33,7 +33,7 @@ array $stop_words (optional) - List of words which are filtered out from the arr
 string $limit (optional) - Limit the number of words returned, Default 5.
 
 ##### Example #1 most_frequent_words() example
-```
+```php
 <?php
 $string = "If you prick us, do we not bleed? If you tickle us, do we not laugh? If you poison us, do we not die? And if you wrong us, shall we not revenge?";
 $stop_words = ['we', 'us'];
