@@ -1,5 +1,4 @@
 # PHP Code Snippets
-<hr>
 
 ### Table of Contents
 
