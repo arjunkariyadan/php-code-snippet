@@ -5,7 +5,7 @@
 - [Most Frequent Word(s) in a String](#most-frequent-words-in-a-string)
 
 ### Most Frequent Word(s) in a String
-most_frequent_words — Find most frequent word(s) appeared in a String
+**most_frequent_words** — Find most frequent word(s) appeared in a String
 ```php
 function most_frequent_words($string, $stop_words = [], $limit = 5) {
     $string = strtolower($string); // Make string lowercase
@@ -20,6 +20,8 @@ function most_frequent_words($string, $stop_words = [], $limit = 5) {
 }
 ```
 Returns array contains word(s) appeared most frequently in the string.
+
+```string strtolower ( string $string, array $stop_words, int $limit )```
 
 Parameters :
 
