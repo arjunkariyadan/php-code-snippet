@@ -24,15 +24,15 @@ function most_frequent_words($string, $stop_words = [], $limit = 5) {
 
 Returns array contains word(s) appeared most frequently in the string.
 
-Parameters :
+**Parameters :**
 
-string $string - The input string.
+string **$string** - The input string.
 
-array $stop_words (optional) - List of words which are filtered out from the array, Default empty array.
+array **$stop_words** (optional) - List of words which are filtered out from the array, Default **empty array**.
 
-string $limit (optional) - Limit the number of words returned, Default 5.
+string **$limit** (optional) - Limit the number of words returned, Default **5**.
 
-##### Example #1 most_frequent_words() example
+#### Example #1 most_frequent_words() example
 ```php
 <?php
 $string = "If you prick us, do we not bleed? If you tickle us, do we not laugh? If you poison us, do we not die? And if you wrong us, shall we not revenge?";
