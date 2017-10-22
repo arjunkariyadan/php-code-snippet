@@ -2,7 +2,7 @@
 
 ### Table of Contents
 
-[Most Frequent Word(s) in a String](#most-frequent-words-in-a-string)
+- [Most Frequent Word(s) in a String](#most-frequent-words-in-a-string)
 
 ### Most Frequent Word(s) in a String
 most_frequent_words — Find most frequent word(s) appeared in a String
