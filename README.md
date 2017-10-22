@@ -2,9 +2,9 @@
 
 ### Table of Contents
 
-**[Most Frequent Word(s) in a String](#most-frequent-words)**
+**[Most Frequent Word(s) in a String](#most-frequent-word(s)-in-a-string)**
 
-### Most Frequent Words
+### Most Frequent Word(s) in a String
 most_frequent_words — Find most frequent word(s) appeared in a String
 ```php
 function most_frequent_words($string, $stop_words = [], $limit = 5) {
